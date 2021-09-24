@@ -1,0 +1,131 @@
+{
+  "project_info": {
+    "project_number": "485272548294",
+    "firebase_url": "https://whattodowithmykids.firebaseio.com",
+    "project_id": "whattodowithmykids",
+    "storage_bucket": "whattodowithmykids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485272548294:android:158c0e19ceafda22c2b8c7",
+        "android_client_info": {
+          "package_name": "com.inspoapps.kinddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485272548294-nhu0mqi6d980rhg8g45dflkojr7bb7qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspoapps.kinddy",
+            "certificate_hash": "ea4ad0aed3e1f12bff73c3aac7e258ed15c88ceb"
+          }
+        },
+        {
+          "client_id": "485272548294-7qka3rqruj1fp4g6gfa9rfg8qe8m3ohg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXhyWtARwnMcY0ZQAag6y--goOHeNtiuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485272548294-7qka3rqruj1fp4g6gfa9rfg8qe8m3ohg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485272548294-ppnrurh2svsosthfcdau328iuvip869i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inspoapps.whattodowithmykids"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485272548294:android:dbd3370a92839576c2b8c7",
+        "android_client_info": {
+          "package_name": "com.inspoapps.whattodowithmykids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485272548294-3ed7cpun63pbn124v950i3meots14950.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspoapps.whattodowithmykids",
+            "certificate_hash": "cf656611a4dcc0c17248c91d72574be2d0f40651"
+          }
+        },
+        {
+          "client_id": "485272548294-50mid5k60ipcm4k77tuqahv6ba5rhkcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspoapps.whattodowithmykids",
+            "certificate_hash": "0ad7a4dd2ca6a14123ba264ec48b5236d1ed6597"
+          }
+        },
+        {
+          "client_id": "485272548294-e5tnvr2bnm4lf6b4man0l818dl0ukno4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspoapps.whattodowithmykids",
+            "certificate_hash": "1b054bd0f87aac3565b0fc48b373ff80a7bd2821"
+          }
+        },
+        {
+          "client_id": "485272548294-h0por1dgasi9mgutcl93je684j7f87r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspoapps.whattodowithmykids",
+            "certificate_hash": "acc47a0c8e87830ec41fa16dafa2068f172465e5"
+          }
+        },
+        {
+          "client_id": "485272548294-js290qo16j03nt2icp5b42jbr2onh5bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inspoapps.whattodowithmykids",
+            "certificate_hash": "4c3093fd3b2a48cfb2a54f284d0985c6972d759f"
+          }
+        },
+        {
+          "client_id": "485272548294-7qka3rqruj1fp4g6gfa9rfg8qe8m3ohg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXhyWtARwnMcY0ZQAag6y--goOHeNtiuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485272548294-7qka3rqruj1fp4g6gfa9rfg8qe8m3ohg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485272548294-ppnrurh2svsosthfcdau328iuvip869i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inspoapps.whattodowithmykids"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
